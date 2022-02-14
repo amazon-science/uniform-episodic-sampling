@@ -19,7 +19,8 @@ If you use this code for your research, please cite our paper:
   arnold2021uniform,
   title={Uniform Sampling over Episode Difficulty},
   author={Sebastien Arnold and Guneet Singh Dhillon and Avinash Ravichandran and Stefano Soatto},
-  booktitle={Thirty-Fifth Conference on Neural Information Processing Systems},
+  booktitle={Advances in Neural Information Processing Systems},
+  editor={A. Beygelzimer and Y. Dauphin and P. Liang and J. Wortman Vaughan},
   year={2021},
   url={https://openreview.net/forum?id=3GpcwM1slH8}
 }
