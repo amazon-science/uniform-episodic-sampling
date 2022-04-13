@@ -15,11 +15,16 @@ Episodic training is a core ingredient of few-shot learning to train models on t
 
 If you use this code for your research, please cite our paper:
 ```
-@article{arnold2021uniform,
-  title={Uniform Sampling over Episode Difficulty},
-  author={Arnold, S{\'e}bastien MR and Dhillon, Guneet S and Ravichandran, Avinash and Soatto, Stefano},
-  journal={arXiv preprint arXiv:2108.01662},
-  year={2021}
+@inproceedings{arnold2021uniform,
+    author = {Arnold, S\'{e}bastien M R and Dhillon, Guneet S and Ravichandran, Avinash and Soatto, Stefano},
+    booktitle = {Advances in Neural Information Processing Systems},
+    editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+    pages = {1481--1493},
+    publisher = {Curran Associates, Inc.},
+    title = {Uniform Sampling over Episode Difficulty},
+    url = {https://proceedings.neurips.cc/paper/2021/file/0b3f44d9054402de39441e165a4bdfe0-Paper.pdf},
+    volume = {34},
+    year = {2021}
 }
 ```
 
